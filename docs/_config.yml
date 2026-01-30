@@ -1,7 +1,7 @@
 title: TinyToolbox
 description: Tiny apps for everyday tasks - lightweight, privacy-focused desktop applications
-url: "https://tinytoolbox.app"
-baseurl: ""
+url: "https://neeraj9.github.io"
+baseurl: "/tinytoolbox"
 
 # Theme
 remote_theme: pages-themes/hacker@v0.2.0
