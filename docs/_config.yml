@@ -12,6 +12,7 @@ repository: neeraj9/tinytoolbox
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
