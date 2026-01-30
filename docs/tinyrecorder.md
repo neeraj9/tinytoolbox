@@ -162,30 +162,22 @@ Add a personal touch with webcam recording. Perfect for reaction videos, vlogs, 
   <div class="spec">
     <h4>Video Formats</h4>
     <ul>
-      <li>MP4 (H.264/H.265)</li>
-      <li>AVI</li>
-      <li>MKV</li>
-      <li>Custom codec support</li>
+      <li>VP8 codec with WebM container</li>
     </ul>
   </div>
   
   <div class="spec">
     <h4>Audio Formats</h4>
     <ul>
-      <li>AAC</li>
-      <li>MP3</li>
-      <li>WAV (lossless)</li>
-      <li>FLAC (lossless)</li>
+      <li>Opus codec with WebM container</li>
     </ul>
   </div>
   
   <div class="spec">
     <h4>Resolution Support</h4>
     <ul>
-      <li>Up to 4K (3840×2160)</li>
-      <li>30/60 FPS options</li>
-      <li>Custom resolution and bitrate</li>
-      <li>Multiple monitor recording</li>
+      <li>Up to 8K (7680x4320)</li>
+      <li>15 FPS options</li>
     </ul>
   </div>
 </div>

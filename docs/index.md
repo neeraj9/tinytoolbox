@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Tiny Windows Apps for Everyday Tasks
+# Tiny Apps for Everyday Tasks
 
 <p class="lead">Lightweight, privacy-focused desktop applications that run entirely on your machine.</p>
 

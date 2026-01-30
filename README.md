@@ -1,6 +1,6 @@
 # 🧰 TinyToolbox
 
-**Tiny Windows apps for everyday tasks** - lightweight, privacy-focused desktop applications that run entirely on your machine.
+**Tiny apps for everyday tasks** - lightweight, privacy-focused desktop applications that run entirely on your machine.
 
 [![Website](https://img.shields.io/badge/Website-tinytoolbox.app-blue)](https://tinytoolbox.app)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-neeraj9.github.io%2Ftinytoolbox-green)](https://neeraj9.github.io/tinytoolbox)
@@ -9,7 +9,7 @@
 
 ## 🎯 About
 
-TinyToolbox is a collection of purpose-built Windows desktop applications designed with privacy and simplicity in mind. Each app focuses on doing one thing really well, with minimal resource usage and complete respect for your privacy.
+TinyToolbox is a collection of purpose-built applications designed with privacy and simplicity in mind. Each app focuses on doing one thing really well, with minimal resource usage and complete respect for your privacy.
 
 **Core Principles:**
 - 🔒 **100% Private** - All data stays on your machine
@@ -70,7 +70,7 @@ This repository is used for issue tracking and support for all TinyToolbox appli
 
 **Before creating an issue:**
 1. Check if it's already reported
-2. Include your Windows version
+2. Include your Operating System version
 3. Provide app version number
 4. Describe steps to reproduce (for bugs)
 
@@ -99,4 +99,4 @@ While the applications themselves are proprietary, we welcome:
 
 ---
 
-**Made with ❤️ for Windows users who value privacy and simplicity.**
+**Made with ❤️ for users who value privacy and simplicity.**

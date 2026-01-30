@@ -13,7 +13,7 @@ description: Privacy policy for TinyToolbox applications - 100% local, no data c
 ## 📝 Summary
 
 <div class="summary-box">
-  <p class="lead">Our applications are privacy-first, local-only Windows desktop tools that may collect and store data on your device for functionality, but <strong>never transmit any data to remote servers</strong>. Your data stays on your machine, under your complete control.</p>
+  <p class="lead">Our applications are privacy-first, local-only tools that may collect and store data on your device for functionality, but <strong>never transmit any data to remote servers</strong>. Your data stays on your machine, under your complete control.</p>
 </div>
 
 ---
@@ -26,7 +26,7 @@ This Privacy Policy applies to all desktop applications built from the tinytoolb
 
 ## Overview
 
-Our applications are designed with privacy as a core principle. They are standalone Windows desktop applications that run entirely on your local machine without requiring internet connectivity for their core functionality.
+Our applications are designed with privacy as a core principle. They are standalone applications that run entirely on your local machine without requiring internet connectivity for their core functionality.
 
 ---
 
