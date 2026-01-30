@@ -36,6 +36,10 @@ defaults:
 # Social
 github_username: neeraj9
 
+# Include files
+include:
+  - favicon.svg
+
 # Exclude from processing
 exclude:
   - README.md
