@@ -1,0 +1,42 @@
+title: TinyToolbox
+description: Tiny Windows apps for everyday tasks - lightweight, privacy-focused desktop applications
+url: "https://tinytoolbox.app"
+baseurl: ""
+
+# Theme
+theme: jekyll-theme-hacker
+
+# GitHub metadata
+repository: neeraj9/tinytoolbox
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  apps:
+    output: true
+    permalink: /:name
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "_apps"
+    values:
+      layout: app
+
+# Social
+github_username: neeraj9
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
