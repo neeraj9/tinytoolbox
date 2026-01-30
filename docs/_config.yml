@@ -4,7 +4,7 @@ url: "https://tinytoolbox.app"
 baseurl: ""
 
 # Theme
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
 
 # GitHub metadata
 repository: neeraj9/tinytoolbox
