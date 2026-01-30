@@ -74,13 +74,13 @@ title: Home
   </div>
   
   <div class="feature">
-    <h3>🔓 Open Source</h3>
-    <p>Transparent development. Verify our privacy claims by reviewing the source code.</p>
+    <h3>� Secure by Design</h3>
+    <p>Built with security best practices to protect your data and privacy.</p>
   </div>
   
   <div class="feature">
-    <h3>🆓 Free to Use</h3>
-    <p>Quality tools available to everyone. No hidden costs or subscriptions.</p>
+    <h3>🆓 Affordable</h3>
+    <p>Quality tools at reasonable prices. No hidden costs or subscriptions.</p>
   </div>
 </div>
 

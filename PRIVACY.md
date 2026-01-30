@@ -75,14 +75,6 @@ As all data is stored locally on your device, you have complete control:
 - **Deletion**: You can delete all application data by uninstalling the application and removing associated files.
 - **Portability**: Your data is stored in standard formats on your local machine and can be backed up or moved at your discretion.
 
-## Open Source Transparency
-
-This project is open source, allowing anyone to:
-
-- Review the source code to verify privacy claims
-- Audit data handling practices
-- Contribute to improving security and privacy features
-
 ## Contact Information
 
 If you have questions or concerns about this Privacy Policy or our privacy practices, please:

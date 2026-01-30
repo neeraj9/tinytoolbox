@@ -109,22 +109,12 @@ As all data is stored locally on your device, you have complete control:
 
 ---
 
-## Open Source Transparency
-
-This project is open source, allowing anyone to:
-
-- Review the source code to verify privacy claims
-- Audit data handling practices
-- Contribute to improving security and privacy features
-
----
-
 ## Contact Information
 
 If you have questions or concerns about this Privacy Policy or our privacy practices, please:
 
 - Open an issue on the GitHub repository: [neeraj9/tinytoolbox]({{ site.github.repository_url }})
-- Review the source code for complete transparency on application behavior
+- Contact us through the support channels listed on our website
 
 ---
 
